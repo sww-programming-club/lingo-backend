@@ -1,5 +1,7 @@
 # CACH Challenge Backend
 
+This is the backend for School Without Wall's submission to the Congressional App Challenge in the DC-00 region, written by Aryaman Arora and Nicolas Romero. It's written in Python using Flask and is hosted on Heroku at http://lingo-backend.herokuapp.com/.
+
 ## API methods
 
 ### `getDefinition`
